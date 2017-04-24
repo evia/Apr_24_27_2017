@@ -20,11 +20,11 @@ doSomething();
 
 //Functional Style
 
-// numbers.forEach(function(num){
-// 	console.log(num);
-// });
+numbers.forEach(function(num){
+	console.log(num);
+});
 
-//Imperative or Declartive style
+//Imperative or Declarative style
 /*
 for(var i=0;i<numbers.length;i++){
 	console.log(numbers[i]);
